@@ -1,0 +1,6 @@
+{
+  "name": "برنامه‌ریز درسی هفتگی",
+  "description": "سامانه مدیریت و برنامه‌ریزی هفتگی تحصیلی با قابلیت درگ اند دراپ، ویرایش سریع پارت‌ها و محاسبه خودکار تعداد و مجموع دروس",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
